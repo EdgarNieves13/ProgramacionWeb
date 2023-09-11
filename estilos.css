@@ -1,0 +1,21 @@
+body{
+    background-color: #fffbf7;
+}
+h1{
+    color: #8b8b8bcc;
+}
+.caja1{
+    position: relative;
+}
+.subtitulo{
+    color: #46484c;
+}
+#logo{
+    width: 30%;
+}
+#subemail{
+    font-size: small;
+}
+#enviar{
+    background-color: #fff;
+}
